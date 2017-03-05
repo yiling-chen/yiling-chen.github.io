@@ -3647,7 +3647,7 @@
 			-ms-flex-shrink: 0;
 			flex-shrink: 0;
 			width: 21rem;
-			height: 21rem;
+			height: 18rem;
 			border-radius: 100%;
 			margin: 0 3.5rem 2rem 0;
 		}
@@ -3740,7 +3740,7 @@
 		}
 
 		.banner.style3.fullscreen {
-			min-height: 100vh;
+			min-height: 50vh;
 		}
 
 		.banner.style3.orient-left {
